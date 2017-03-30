@@ -4,6 +4,7 @@ version: "v1"
 description: "Personal blog and website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+permalink: /blog/:year/:month/:day/:title/
 
 # Tachyons Version
 tv: "4.6.1"
