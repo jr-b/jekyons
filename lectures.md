@@ -4,6 +4,12 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
+- Mars, avril, mai (2017)
+	* Thomas Bernhard, _Le naufragé_, 1983.
+	* Geneviève Desrosiers, _Nombreux seront nos ennemis_, L'Oie de Cravan, 2006.
+
+<br>
+
 - Janvier, février, mars, avril (2016)
 	* Jean Grondin, _Introduction à la métaphysique_, Presses de l'Université de Montréal, 2004.
 	* Georges Bataille, _Œuvres complètes VI_, Gallimard, 1973.
