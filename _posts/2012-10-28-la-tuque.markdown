@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "La tuque"
-date:   2013-03-04
-categories:
+date:   2012-10-28
+categories: Jeu Exercices
+published: true
 ---
-<span class="">![Flowers in the eyes.png](http://f.cl.ly/items/1G1X1Z2q3c2C3x3Q1w37/flowersEyes.png)[^1]</span>
-
 Sans aucune motivation, je tendis ma carte d’hôpital en m’essayant à un sourire. La réceptionniste, ce jour-là c’était celle aux cheveux blonds, me reconnut et sembla répondre à mon sourire en tendant légèrement un muscle de sa joue gauche, et déjà elle s’affairait à trouver mon dossier pour m’indiquer rapidement la salle où j’irais m’échouer ce jour-là; la distance qu’elle voulait de toute évidence garder entre elle et les nombreux malades qui passaient devant elle chaque jour m’agaçait. À travers mon état lamentable, je cherchais un réconfort simple dans mes échanges avec ces inconnus qui me soignaient quotidiennement. Mon regard éteint, vide, demandait désespérément une ancre pour fixer ma carcasse, mais ces êtres pleins de vies qui continuaient, eux, à déambuler autour ne voyaient, au fond de mes yeux, qu’un scintillement incertain, comme le lampadaire qui, au fond d’une nuit, s’éteint et s’allume imprévisiblement.
 
 J’attendis qu’on m’appelle dans l’interphone en faisant quelques pas dans le corridor; inutile d’aller dans la salle d’attente officielle, d’un instant à l’autre, mon nom retentirait dans les hauts parleurs. J’appréhendais déjà les sept prochaines heures d’ennui et de désagrément, sans le moindre doute dégoûtantes. _F._ passa à mes côtés alors que je répondais au questionnaire matinal. Je le saluai, nous échangeâmes un peu sur nos routines, qui, au final, étaient identiques. Il continua jusqu’à l’accueil et je fus heureux d’avoir un frère de cancer, un frère de guerre.
