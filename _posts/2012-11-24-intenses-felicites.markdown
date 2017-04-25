@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intenses félicités anecdotiques"
+title:  "Intenses f&#233;licit&#233;s anecdotiques"
 date: 2012-11-24
 categories: Poésie
 ---

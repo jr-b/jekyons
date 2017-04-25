@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Île de désaccord"
+title:  "&#206;le de d&#233;saccord"
 date: 2013-03-08
 categories: Poésie Jeu
 ---

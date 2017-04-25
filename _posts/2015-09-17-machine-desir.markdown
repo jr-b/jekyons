@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bataille et Gombrowicz: machine de désir"
+title:  "Bataille et Gombrowicz: machine de d&#233;sir"
 date: 2015-09-17
 categories: Fragments Recherche
 ---

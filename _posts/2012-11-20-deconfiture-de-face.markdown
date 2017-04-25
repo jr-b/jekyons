@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Déconfiture de face"
+title:  "D&#233;confiture de face"
 date: 2012-11-20
 categories: Poésie
 ---

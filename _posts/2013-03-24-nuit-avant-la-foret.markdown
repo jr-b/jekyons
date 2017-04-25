@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La nuit avant la forêt"
+title:  "La nuit avant la for&#234;t"
 date: 2013-03-24
 categories: Poésie Jeu
 ---

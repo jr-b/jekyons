@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crevasse d'une pâle matière"
+title:  "Crevasse d'une p&#226;le mati&#232;re"
 date: 2013-03-04
 categories: Poésie
 ---

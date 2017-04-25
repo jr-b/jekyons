@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "«Gombrowicz, le drame et l'anti-drame» de Constantin Jelenski (extrait)"
+title:  "&#171;Gombrowicz, le drame et l'anti-drame&#187; de Constantin Jelenski (extrait)"
 date: 2015-09-17
 categories: Fragments Recherche
 ---

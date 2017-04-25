@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "«Sartre et Camus jugés dans le Journal», Renato Barilli (extrait)"
+title:  "&#171;Sartre et Camus jugés dans le Journal&#187;, Renato Barilli (extrait)"
 date: 2015-09-17
 categories: Fragments Recherche
 ---

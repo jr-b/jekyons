@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "«La Bête de Lascaux», Maurice Blanchot (extraits)"
+title:  "&#171;La B&#234;te de Lascaux&#187;, Maurice Blanchot (extraits)"
 date: 2016-02-28
 categories: Fragments
 ---
