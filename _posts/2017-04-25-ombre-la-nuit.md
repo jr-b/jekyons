@@ -1,10 +1,15 @@
-OMBRE LA NUIT
-
+---
+layout: post
+title:  "Ombre la nuit"
+date: 2017-04-25
+categories: Poésie Jeu
+published: false
+---
 Tory se réveilla dans le corps de son amie morte. Était grande, ossature, traits délicats. Ses cheveux de blé tombaient, son dos étroit. Souple et douce à dos d'argent. 
 
-Le corps se souvenait de ces instants, encore le long mouvement, l'impression d'être un chat que l'on caresse. Le corps se rappelait la lumière glissante et les flacons de cristal bleu, jetant un éclat sur le dos argenté, dansait au dessus de ses cheveux. 
+Le corps se souvenait de ces instants, encore le long mouvement, l'impression d'être un chat que l'on caresse. Le corps se rappelait la lumière glissante et les flacons de cristal bleu, jetant un éclat sur le dos argenté, dansait au dessus de ses cheveux.
 
-La fillette se rappelait aussi la chambre. Un parfum de gardénia, que du gardénia. 
+La fillette se rappelait aussi la chambre. Un parfum de gardénia, que du gardénia.
 
 Et dans le miroir, la lueur, ce pâle visage ovale, encore là, si jeune, si gracieux, ses yeux bleus pensifs, sa peau si vivante.
 
@@ -14,4 +19,4 @@ C'était la chaleur qu'elle désirait, l'aventure rêvait. Pourtant, elle garda 
 
 En juin des couloirs, les chemins de tapis au grenier [...]
 
-> Écrire, ce peut aussi être retirer des mots, parfois les mots des autres. 
+> Écrire, ce peut aussi être retirer des mots, parfois les mots des autres.
