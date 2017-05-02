@@ -9,7 +9,8 @@ permalink: /lectures.html
 	* Geneviève Desrosiers, _Nombreux seront nos ennemis_, L'Oie de Cravan, 2006.
 	* Pascal Riendeau, _La rencontre du savoir et du soi dans l'essai_, Dérives de l’essai, Volume 37, numéro 1, automne 2005.
 	* George Saunders, «What writers really
-do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write). 
+do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write).
+	* Hélène Frédérick, _Forêt contraire_, Héliotrope, 2015.
 
 <br>
 

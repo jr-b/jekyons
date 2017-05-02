@@ -1,7 +1,7 @@
 # Site settings
 title: Jérémi Robitaille-Brassard
 version: "v1"
-description: "Auteur, éditeur et bricoleur web"
+description: "Jérémi Robitaille-Brassard"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jr-b.net" # the base hostname & protocol for your site
 permalink: /blogue/:title/
