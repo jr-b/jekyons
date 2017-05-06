@@ -5,12 +5,21 @@ date:   2017-03-03
 permalink: /lectures.html
 ---
 - Mars, avril, mai (2017)
+	* Jean-Luc Lagarce, _Juste la fin du monde_, Hamac, 2016.
 	* Thomas Bernhard, _Le naufragé_, 1983.
 	* Geneviève Desrosiers, _Nombreux seront nos ennemis_, L'Oie de Cravan, 2006.
 	* Pascal Riendeau, _La rencontre du savoir et du soi dans l'essai_, Dérives de l’essai, Volume 37, numéro 1, automne 2005.
 	* George Saunders, «What writers really
 do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write).
 	* Hélène Frédérick, _Forêt contraire_, Héliotrope, 2015.
+	* Marguerite Duras, _Le ravissement de Lol V. Stein_, Gallimard. 
+
+<br>
+
+- Septembre, octobre, novembre, décembre (2016)
+	* Witold Gombrowicz, _Les envoutés_, dans _Moi et mon double_, Gallimard, 1996.
+	* Marguerite Duras, _L'amant_, Minuit.
+	* René Girard, _Des choses cachées depuis la fondation du monde_, Grasset, 1978.
 
 <br>
 
@@ -28,7 +37,7 @@ do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/boo
 	* Sciascia, _Le jour de la chouette_, ...
 	* Italo Calvino, _Palomar_, Paris, Seuil.
 	* Rosetta Loy, _Ay, Paloma_, Paris, Rivages.
-	*  Giorgio Agamben, _Qu'est-ce qu'un dispositif?_, Payot et Rivages, 2014.
+	* Giorgio Agamben, _Qu'est-ce qu'un dispositif?_, Payot et Rivages, 2014.
 	* Italo Calvino, _Le sentier des nids d'araignées_, Gallimard, 2013.
 	* Marie NDiaye, _Autoportrait en vert_, Mercure de France, 2005.
 	* Leslie Kaplan, *L'excès-L'usine*, POL, 1987.
