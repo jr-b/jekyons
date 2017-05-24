@@ -12,7 +12,10 @@ permalink: /lectures.html
 	* George Saunders, «What writers really
 do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write).
 	* Hélène Frédérick, _Forêt contraire_, Héliotrope, 2015.
-	* Marguerite Duras, _Le ravissement de Lol V. Stein_, Gallimard. 
+	* Marguerite Duras, _Le ravissement de Lol V. Stein_, Gallimard.
+	* Catherine Lemieux, «Je n’attends plus personne. Sur quelques lieux stratégiques d’écriture», _Post-Scriptum_, [En ligne](http://www.post-scriptum.org/18-02-je-nattends-plus-personne/).
+	* Fabien Deglise, «Edgar Morin et l'éloge du mystère», _Le Devoir_, 6 mai 2017, [en ligne](http://www.ledevoir.com/culture/livres/498035/entrevue-edgar-morin-et-l-eloge-du-mystere).
+	* Nancy Houston, _L'espèce fabulatrice_, Actes Sud/Leméac, 2008. 
 
 <br>
 
