@@ -15,7 +15,9 @@ do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/boo
 	* Marguerite Duras, _Le ravissement de Lol V. Stein_, Gallimard.
 	* Catherine Lemieux, «Je n’attends plus personne. Sur quelques lieux stratégiques d’écriture», _Post-Scriptum_, [En ligne](http://www.post-scriptum.org/18-02-je-nattends-plus-personne/).
 	* Fabien Deglise, «Edgar Morin et l'éloge du mystère», _Le Devoir_, 6 mai 2017, [en ligne](http://www.ledevoir.com/culture/livres/498035/entrevue-edgar-morin-et-l-eloge-du-mystere).
-	* Nancy Houston, _L'espèce fabulatrice_, Actes Sud/Leméac, 2008. 
+	* Nancy Huston, _L'espèce fabulatrice_, Actes Sud/Leméac, 2008.
+	* Brian Pronger, Richard Schmitt, _Si on se touchait?_, zine publié sur Infokiosques.net, [en ligne](https://infokiosques.net/spip.php?article1413).
+	* Groupe de Recherches en Objectivités Sociales, _POUR UNE ÉC(H)OLOGIE DES REFUS. Critique de la culture et culture critique_, Possibles Éditions, 2013. 
 
 <br>
 
