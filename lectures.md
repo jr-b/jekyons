@@ -4,6 +4,12 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
+- Juin, juillet, août (2017)
+	* Cousins de personne, «Élire domicile», numéro 12, 2017.
+	* Clément Rosset, _L'anti-nature. Éléments pour une philosophie tragique_, Paris, Presses Universitaires de France, 1973. 
+
+<br>
+
 - Mars, avril, mai (2017)
 	* Jean-Luc Lagarce, _Juste la fin du monde_, Hamac, 2016.
 	* Thomas Bernhard, _Le naufragé_, 1983.
@@ -17,7 +23,7 @@ do when they write», _The Guardian_, [En ligne](https://www.theguardian.com/boo
 	* Fabien Deglise, «Edgar Morin et l'éloge du mystère», _Le Devoir_, 6 mai 2017, [en ligne](http://www.ledevoir.com/culture/livres/498035/entrevue-edgar-morin-et-l-eloge-du-mystere).
 	* Nancy Huston, _L'espèce fabulatrice_, Actes Sud/Leméac, 2008.
 	* Brian Pronger, Richard Schmitt, _Si on se touchait?_, zine publié sur Infokiosques.net, [en ligne](https://infokiosques.net/spip.php?article1413).
-	* Groupe de Recherches en Objectivités Sociales, _POUR UNE ÉC(H)OLOGIE DES REFUS. Critique de la culture et culture critique_, Possibles Éditions, 2013. 
+	* Groupe de Recherches en Objectivités Sociales, _POUR UNE ÉC(H)OLOGIE DES REFUS. Critique de la culture et culture critique_, Possibles Éditions, 2013.
 
 <br>
 
