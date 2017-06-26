@@ -6,6 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jr-b.net" # the base hostname & protocol for your site
 permalink: /blogue/:title/
 
+defaults:
+  - scope:
+      path: "/images"
+    values:
+      image: true
+
 # Tachyons Version
 tv: "4.6.1"
 

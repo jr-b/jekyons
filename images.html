@@ -1,0 +1,18 @@
+---
+title: Blogue photographique
+layout: default
+sort_by:        modified_time   # modified_time or path (notice: path is case sensitive)
+date_format:    "%A, %B %-d, %Y"
+---
+
+<div class="fl w-85">
+
+  {% for image in site.static_files %}
+      {% if image.path contains 'images' %}
+
+          <img src="{{ site.baseurl }}{{ image.path }}" class="mw-100" alt="image" />
+          <div class="pt1 pb4 f6 lh-copy tc">Titre: <strong>{{ image.path | remove:'/images/' }}</strong></div>
+      {% endif %}
+  {% endfor %}
+
+  </div>
