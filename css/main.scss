@@ -50,3 +50,18 @@ blockquote {
 article a {
   color: #001B44;
 }
+
+@media screen and (max-width: 479px) {
+    .jrb-web-small{
+      border: 0;
+      text-decoration: underline;
+      -moz-text-decoration-color: black; /* Code for Firefox */
+      text-decoration-color: black;
+    }
+    .jrb-margin-20{
+      margin-left: 20px;
+    }
+    .jrb-no-bottom{
+      border:0;
+    }
+}
