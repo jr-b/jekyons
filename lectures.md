@@ -6,7 +6,11 @@ permalink: /lectures.html
 ---
 - Juin, juillet, août (2017)
 	* Cousins de personne, «Élire domicile», numéro 12, 2017.
-	* Clément Rosset, _L'anti-nature. Éléments pour une philosophie tragique_, Paris, Presses Universitaires de France, 1973. 
+	* Clément Rosset, _L'anti-nature. Éléments pour une philosophie tragique_, Paris, Presses Universitaires de France, 1973.
+	* Marguerite Duras, _Yeux bleus cheveux noirs_, Minuit.
+	* Antoine Volodine, _Des anges mineurs_, Seuil.
+	* Marguerite Duras, _Écrire_, Gallimard.
+	* Colette Guillaumin, _«Je sais bien mais quand même» ou les avatars de la notion de «race»_, Infokiosques, [En ligne](https://infokiosques.net/lire.php?id_article=1449).
 
 <br>
 
