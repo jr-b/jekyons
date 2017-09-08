@@ -4,6 +4,10 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
+- Septembre 2017
+	* Clément Rosset, _Le principe de cruauté_, Minuit, 1988.
+	* 
+
 - Juin, juillet, août (2017)
 	* Cousins de personne, «Élire domicile», numéro 12, 2017.
 	* Clément Rosset, _L'anti-nature. Éléments pour une philosophie tragique_, Paris, Presses Universitaires de France, 1973.
