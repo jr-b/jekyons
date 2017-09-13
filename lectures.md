@@ -6,7 +6,8 @@ permalink: /lectures.html
 ---
 - Septembre 2017
 	* Clément Rosset, _Le principe de cruauté_, Minuit, 1988.
-	* 
+	* _Michel Foucault présente Herculine Barbin dite Alexina B._, Gallimard, 2014.
+	* Auguste de Villiers de l'Isle d'Adam, «Claire Lenoir», _Tribulat Bonhomet_, 1896, consulté sur Gallica. 
 
 - Juin, juillet, août (2017)
 	* Cousins de personne, «Élire domicile», numéro 12, 2017.
