@@ -7,7 +7,13 @@ permalink: /lectures.html
 - Septembre 2017
 	* Clément Rosset, _Le principe de cruauté_, Minuit, 1988.
 	* _Michel Foucault présente Herculine Barbin dite Alexina B._, Gallimard, 2014.
-	* Auguste de Villiers de l'Isle d'Adam, «Claire Lenoir», _Tribulat Bonhomet_, 1896, consulté sur Gallica. 
+	* Auguste de Villiers de l'Isle d'Adam, «Claire Lenoir», _Tribulat Bonhomet_, 1896, consulté sur Gallica.
+	* E. Drougard, «Le premier conte de Villiers de l'Isle-Adam : Claire Lenoir (1867)», _Revue d'Histoire littéraire de la France_.
+	* Yves Bonnardel, _Idée de Nature, humanisme et négation de la pensée animale_, Infokiosques, [en ligne](https://infokiosques.net/lire.php?id_article=1087).
+	* David Olivier, _Qu’est-ce que le spécisme ?_, Infokiosques, [en ligne](http://www.cahiers-antispecistes.org/quest-ce-que-le-specisme/).
+	
+
+<br>
 
 - Juin, juillet, août (2017)
 	* Cousins de personne, «Élire domicile», numéro 12, 2017.

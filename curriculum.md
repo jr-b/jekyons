@@ -8,11 +8,9 @@ permalink: /curriculum.html
 
 * **Maîtrise en études littéraires**, Université du Québec à Montréal, 2017-2019.
 
+* **Programme court** de premier cycle en linguistique appliquée à l'étude de la grammaire, Université du Québec à Montréal, 2013-2016.
+
 * **Baccalauréat en études littéraires**, pofil _Perspectives critiques_, Université du Québec à Montréal, 2013-2016.
-    *  Spécialisation en linguistique appliquée à l’étude de la grammaire    
-
-* **DEC en arts et lettres**, profil _Cinéma et communication_, Cégep Édouard-Montpetit, 2008-2010.
-
 
 ## Postes occupés
 
@@ -28,8 +26,7 @@ permalink: /curriculum.html
 *  **Membre du comité de rédaction**, revue *Postures* (2015-2017)
     *  Numéro 22 (Discours et poétiques de l’amour);
     *  Numéro 23 (Écrire avec);
-    *  Numéro 24 (Actes du colloque de l'AECSEL).       
-&nbsp;
+    *  Numéro 24 (Actes du colloque de l'AECSEL).   
 
 *  **Corédacteur en chef**, revue *Main Blanche* (2013-2014)
 &nbsp;
