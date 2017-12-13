@@ -11,7 +11,8 @@ permalink: /lectures.html
 	* E. Drougard, «Le premier conte de Villiers de l'Isle-Adam : Claire Lenoir (1867)», _Revue d'Histoire littéraire de la France_.
 	* Yves Bonnardel, _Idée de Nature, humanisme et négation de la pensée animale_, Infokiosques, [en ligne](https://infokiosques.net/lire.php?id_article=1087).
 	* David Olivier, _Qu’est-ce que le spécisme ?_, Infokiosques, [en ligne](http://www.cahiers-antispecistes.org/quest-ce-que-le-specisme/).
-	
+	* Katherine Dunn, _Amour monstre_, Gallmeister, 2016.
+
 
 <br>
 
