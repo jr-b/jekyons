@@ -14,19 +14,21 @@ permalink: /curriculum.html
 
 ## Postes occupés
 
-* **Codirecteur et corédacteur en chef**, revue *L'Artichaut* (mars 2016-septembre 2017)
+* **Gestionnaire de communauté** et **agent d'assistance technique**, ICI Radio-Canada/CBC (2014-) <span class="dark-red">(emploi actuel)</span>
 &nbsp;
+
+*  **Membre du comité de rédaction**, revue *Postures* (2015-)
+    *  Numéro 22, [«Discours et poétiques de l’amour»](http://revuepostures.com/fr/numeros/discours-poetiques-amour);
+    *  Numéro 23, [«Écrire avec»](http://revuepostures.com/fr/ecrire-avec);
+    *  Numéro 24, [«Actes du colloque de l'AECSEL»](http://revuepostures.com/fr/articles/espaces-critiques);
+    *  Numéro 25, [«L'autre»](http://revuepostures.com/fr/articles/alterite);
+    *  Numéro 27, en préparation <span class="dark-red">(projet actuel)</span>
+
+* **Codirecteur et corédacteur en chef**, revue *L'Artichaut* (mars 2016-septembre 2017)
+    &nbsp;
 
 * **Chef de pupitre Théories et perspectives**, revue *L'Artichaut* (2015-2016)
-&nbsp;
-
-* **Gestionnaire de communauté** et **agent d'assistance technique**, ICI Radio-Canada/CBC (2014-)
-&nbsp;
-
-*  **Membre du comité de rédaction**, revue *Postures* (2015-2017)
-    *  Numéro 22 (Discours et poétiques de l’amour);
-    *  Numéro 23 (Écrire avec);
-    *  Numéro 24 (Actes du colloque de l'AECSEL).   
+    &nbsp;
 
 *  **Corédacteur en chef**, revue *Main Blanche* (2013-2014)
 &nbsp;
@@ -46,6 +48,8 @@ permalink: /curriculum.html
 
 ### En tant qu'auteur :
 
+* Robitaille-Brassard, Jérémi, « Le sacré chez Georges Bataille », _L’Artichaut_, vol. 8, «Profanations», 2018. <span class="dark-red">À venir.</span>
+* Robitaille-Brassard, Jérémi, « Métaphysique de l'impossible chez Georges Bataille », _L’Artichaut_, 2018. <span class="dark-red">À venir.</span>
 * Robitaille-Brassard, Jérémi, « La Youngnesse, l’immaturité : précipices et désirs des possibles », _L’Artichaut_, 2016, [Disponible en ligne](http://artichautmag.com/youngnesse-limmaturite-precipices-desirs-possibles/).
 * Robitaille-Brassard, Jérémi, « Surréalisme de l’œil chez Georges Bataille », _Postures_, Dossier « Écrire avec », no 23, 2016, [Disponible en ligne](http://revuepostures.com/fr/robitaille-23).
 * Robitaille-Brassard, Jérémi, « Crudité de maux féminins vivaces. Chasse aux corneilles de Lau- rence Lola Veilleux », _L’Artichaut_, 2015, [Disponible en ligne](http://artichautmag.com/crudite-de-maux-feminins-vivaces-chasse-aux-corneilles-de-laurence-lola-veilleux/).
