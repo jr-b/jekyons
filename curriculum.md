@@ -48,8 +48,8 @@ permalink: /curriculum.html
 
 ### En tant qu'auteur :
 
-* Robitaille-Brassard, Jérémi, « Le sacré chez Georges Bataille », _L’Artichaut_, vol. 8, «Profanations», 2018. <span class="dark-red">À venir.</span>
-* Robitaille-Brassard, Jérémi, « Métaphysique de l'impossible chez Georges Bataille », _L’Artichaut_, 2018. <span class="dark-red">À venir.</span>
+* Robitaille-Brassard, Jérémi, « Sacré et profanation dans l'<i>Histoire de l'œil</i> de Georges Bataille », _L’Artichaut_, vol. 8, «Profanations», 2018. <span class="dark-red">À paraître.</span>
+* Robitaille-Brassard, Jérémi, « Métaphysique de l'impossible chez Georges Bataille », _L’Artichaut_, 2018. [Disponible en ligne](http://artichautmag.com/metaphysique-de-limpossible-chez-georges-bataille/).
 * Robitaille-Brassard, Jérémi, « La Youngnesse, l’immaturité : précipices et désirs des possibles », _L’Artichaut_, 2016, [Disponible en ligne](http://artichautmag.com/youngnesse-limmaturite-precipices-desirs-possibles/).
 * Robitaille-Brassard, Jérémi, « Surréalisme de l’œil chez Georges Bataille », _Postures_, Dossier « Écrire avec », no 23, 2016, [Disponible en ligne](http://revuepostures.com/fr/robitaille-23).
 * Robitaille-Brassard, Jérémi, « Crudité de maux féminins vivaces. Chasse aux corneilles de Lau- rence Lola Veilleux », _L’Artichaut_, 2015, [Disponible en ligne](http://artichautmag.com/crudite-de-maux-feminins-vivaces-chasse-aux-corneilles-de-laurence-lola-veilleux/).
