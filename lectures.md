@@ -4,7 +4,23 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
-- Septembre 2017
+- Hiver 2018
+	* Jeanne Burgart Goutal, «Déconstruire le "carno-phallogocentrisme" : l’écoféminisme comme critique de la rationalité occidentale», _PhænEx_, vol. 11, no. 1, 2016, [en ligne](https://phaenex.uwindsor.ca/ojs/leddy/index.php/phaenex/issue/view/452/showToc).
+	* David Benatar, «Kids? Just say no», _Aeon_, [en ligne](https://aeon.co/essays/having-children-is-not-life-affirming-its-immoral).
+	* Bertrand Gervais, «IMAGINAIRE DE LA FIN DU LIVRE : FIGURES DU
+LIVRE ET PRATIQUES ILLITTÉRAIRES», _Fabula LHT_, no. 16, 2016, [en ligne](http://www.fabula.org/lht/16/gervais.html).
+	* Judith Schalansky, _L'Inconstance de l'espèce_, trad. de Matthieu Dumont, Paris, Actes Sud, 2013.
+	* Judith Schalansky, _Atlas des îles abandonnées_, Paris, Arthaud, 2010.
+	* Paolo Giordano, _La solitude des nombres premiers_, coll. «Points», Paris, Seuil, 2009.
+	* Jérôme Ferrari, _Le Principe_, Paris, Actes Sud, 2015.
+	* Pierre Cassou-Noguès, _Les rêves cybernétiques de Nobert Wiener_, Paris, Seuil, 2014.
+	* Olivia Goldhill, «The idea that everything from spoons to stones are conscious is gaining academic credibility», _Quartz_, [en ligne](https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/).
+	* Ephrat Livni, «The new science of animal cognition is forcing countries to overhaul their laws», _Quartz_, [en ligne](https://qz.com/1181881/proof-of-animal-cognition-is-recognized-by-new-laws-in-europe/).
+
+
+<br>
+
+- Automne 2017
 	* Clément Rosset, _Le principe de cruauté_, Minuit, 1988.
 	* _Michel Foucault présente Herculine Barbin dite Alexina B._, Gallimard, 2014.
 	* Auguste de Villiers de l'Isle d'Adam, «Claire Lenoir», _Tribulat Bonhomet_, 1896, consulté sur Gallica.
@@ -12,6 +28,13 @@ permalink: /lectures.html
 	* Yves Bonnardel, _Idée de Nature, humanisme et négation de la pensée animale_, Infokiosques, [en ligne](https://infokiosques.net/lire.php?id_article=1087).
 	* David Olivier, _Qu’est-ce que le spécisme ?_, Infokiosques, [en ligne](http://www.cahiers-antispecistes.org/quest-ce-que-le-specisme/).
 	* Katherine Dunn, _Amour monstre_, Gallmeister, 2016.
+	* Hubert Hadad, _Corps désirable_, Paris, Zulma, 2015.
+	* Vercors, _Les animaux dénaturés_, Paris, Le livre de poche, 1975.
+	* Norbert Wiener, _God & Golem inc._, Paris, L’éclat, 2016.
+	* Marie Darrieussecq, _Notre vie dans les forêts_, Paris, POL, 2017.
+	* Denis Müller, Hugues Poltier (dir.), _Un Homme nouveau par le clonage ?_, Genève, Labor/Fides, 2005.
+	* Pascal Nouvel, « De la biologie synthétique à l’homme synthétique », _Comptes Rendus Biologies_, vol. 338, no. 8-9, 2015, p. 561, [en ligne](https://doi.org/10.1016/j.crvi.2015.06.015).
+	* Louise Vandelac, «Clonage ou la traversée du miroir», _Cahiers de recherche sociologique_, 2003, p. 141–157.
 
 
 <br>
