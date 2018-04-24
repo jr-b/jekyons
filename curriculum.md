@@ -22,7 +22,9 @@ permalink: /curriculum.html
     *  Numéro 23, [«Écrire avec»](http://revuepostures.com/fr/ecrire-avec);
     *  Numéro 24, [«Actes du colloque de l'AECSEL»](http://revuepostures.com/fr/articles/espaces-critiques);
     *  Numéro 25, [«L'autre»](http://revuepostures.com/fr/articles/alterite);
-    *  Numéro 27, en préparation <span class="dark-red">(projet actuel)</span>
+    *  Numéro 27, [«Trafiquer l'écriture : fictions frauduleuses et supercheries auctoriales»](http://revuepostures.com/fr/articles/trafiquer)].
+
+* **Médiateur bénévole** à la Coop [Temps Libre Mile-End](https://tempslibre.coop/) (2016-2017)
 
 * **Codirecteur et corédacteur en chef**, revue *L'Artichaut* (mars 2016-septembre 2017)
     &nbsp;

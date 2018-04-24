@@ -16,6 +16,7 @@ LIVRE ET PRATIQUES ILLITTÉRAIRES», _Fabula LHT_, no. 16, 2016, [en ligne](htt
 	* Pierre Cassou-Noguès, _Les rêves cybernétiques de Nobert Wiener_, Paris, Seuil, 2014.
 	* Olivia Goldhill, «The idea that everything from spoons to stones are conscious is gaining academic credibility», _Quartz_, [en ligne](https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/).
 	* Ephrat Livni, «The new science of animal cognition is forcing countries to overhaul their laws», _Quartz_, [en ligne](https://qz.com/1181881/proof-of-animal-cognition-is-recognized-by-new-laws-in-europe/).
+	* Jacques Derrida, _L'animal que donc je suis_, Paris, Galilée, 2006.
 
 
 <br>
