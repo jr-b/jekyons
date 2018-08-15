@@ -1,6 +1,10 @@
-# Contre l'amour_
+---
+layout: page
+title:  "Contre l'amour"
+---
 
 ### Que ta solitude soit accueillante aux tendresses
+— Texte emprunté de la page [https://infokiosques.net/lire.php?id_article=158](https://infokiosques.net/lire.php?id_article=158) —
 
 _Texte paru en 1998 dans la revue Et ta sœur_
 
