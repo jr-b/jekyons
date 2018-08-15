@@ -10,13 +10,20 @@ permalink: /lectures.html
 	* Bertrand Gervais, «IMAGINAIRE DE LA FIN DU LIVRE : FIGURES DU
 LIVRE ET PRATIQUES ILLITTÉRAIRES», _Fabula LHT_, no. 16, 2016, [en ligne](http://www.fabula.org/lht/16/gervais.html).
 	* Judith Schalansky, _L'Inconstance de l'espèce_, trad. de Matthieu Dumont, Paris, Actes Sud, 2013.
-	* Judith Schalansky, _Atlas des îles abandonnées_, Paris, Arthaud, 2010.
 	* Paolo Giordano, _La solitude des nombres premiers_, coll. «Points», Paris, Seuil, 2009.
 	* Jérôme Ferrari, _Le Principe_, Paris, Actes Sud, 2015.
 	* Pierre Cassou-Noguès, _Les rêves cybernétiques de Nobert Wiener_, Paris, Seuil, 2014.
 	* Olivia Goldhill, «The idea that everything from spoons to stones are conscious is gaining academic credibility», _Quartz_, [en ligne](https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/).
 	* Ephrat Livni, «The new science of animal cognition is forcing countries to overhaul their laws», _Quartz_, [en ligne](https://qz.com/1181881/proof-of-animal-cognition-is-recognized-by-new-laws-in-europe/).
 	* Jacques Derrida, _L'animal que donc je suis_, Paris, Galilée, 2006.
+	* Georges Didi-Huberman, _Atlas ou le gai savoir inquiet. L’Œil de l’histoire, 3_, Paris, Minuit, coll. « Paradoxe », 2011, 384 p.
+	* Christian Jacob, _L’empire des cartes_, Paris, Albin Michel, 1992, 537 p.
+	* Anne Meistersheim, _Figures de l’île_, Ajaccio, DCL, 2001, 174 p.
+	* Paul D. Miller,, « Logique de l’archipel : insulaire et interrelié (démarche d’artiste) », trad. Simon Brown, _Circuit_, volume 25, numéro 2.
+	* Thierry Paquot, Chris Younès (dir.), _Le territoire des philosophes_, Paris, La Découverte, coll. « Armillaire », 2009, 396 p.
+	* Georges Perec, _Espèces d’espace_, Paris, Galilée, coll. « L’espace critique », 2000 [1974], 200 p.
+	* Judith Schalansky, _Atlas des îles abandonnées_, Paris, Arthaud, 2010, 139 p.
+
 
 
 <br>
