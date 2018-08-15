@@ -1,3 +1,5 @@
+# Contre l'amour_
+
 ### Que ta solitude soit accueillante aux tendresses
 
 _Texte paru en 1998 dans la revue Et ta sœur_
