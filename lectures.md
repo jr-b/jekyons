@@ -4,6 +4,20 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
+- Automne 2018
+	* Serge Margel, _Logique de la nature. Le fantôme, la technique et la mort_, Paris, Galilée, 2000.
+	* Gilbert Durand, _Les strutures anthropologiques de l'imaginaire_, Paris, Dunod, 1984.
+	* Jean-Luc Guichet, _Problématiques animales_, Paris, PUF, 2011.
+	* Colas Duflo, _La finalité dans la nature. De Descartes à Kant_, Paris PUF, 1996.
+	* Jeanne Burgart Goutal, «Déconstruire le "carno-phallogocentrisme" : l’écoféminisme comme critique de la rationalité occidentale», _PhænEx_, vol. 11, no. 1, 2016, [en ligne](https://phaenex.uwindsor.ca/ojs/leddy/index.php/phaenex/issue/view/452/showToc).
+	* Maude Veuilleux, _Franckie et Alex_, [en ligne](http://maudeveilleux.com).
+	* Sarah-Louise Pelletier, «Si Réjean Ducharme était une femme», _Françoise Stéréo_, [en ligne](http://francoisestereo.com/rejean-ducharme-etait-femme/).
+	* 
+
+
+- Été 2018
+	* Witold Gombrowicz, _Journal_ (tome 1 et 2)
+
 - Hiver 2018
 	* Jeanne Burgart Goutal, «Déconstruire le "carno-phallogocentrisme" : l’écoféminisme comme critique de la rationalité occidentale», _PhænEx_, vol. 11, no. 1, 2016, [en ligne](https://phaenex.uwindsor.ca/ojs/leddy/index.php/phaenex/issue/view/452/showToc).
 	* David Benatar, «Kids? Just say no», _Aeon_, [en ligne](https://aeon.co/essays/having-children-is-not-life-affirming-its-immoral).

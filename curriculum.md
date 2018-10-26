@@ -50,7 +50,7 @@ permalink: /curriculum.html
 
 ### En tant qu'auteur :
 
-* Robitaille-Brassard, Jérémi, « Sacré et profanation dans l'<i>Histoire de l'œil</i> de Georges Bataille », _L’Artichaut_, vol. 8, «Profanations», 2018. <span class="dark-red">À paraître.</span>
+* Robitaille-Brassard, Jérémi, « Sacré et profanation dans l'<i>Histoire de l'œil</i> de Georges Bataille », _L’Artichaut_, vol. 8, «Profanations», 2018. [Disponible en ligne](http://artichautmag.com/wp-content/uploads/2018/06/artichaut_mag_c692plachewp1.pdf).
 * Robitaille-Brassard, Jérémi, « Métaphysique de l'impossible chez Georges Bataille », _L’Artichaut_, 2018. [Disponible en ligne](http://artichautmag.com/metaphysique-de-limpossible-chez-georges-bataille/).
 * Robitaille-Brassard, Jérémi, « La Youngnesse, l’immaturité : précipices et désirs des possibles », _L’Artichaut_, 2016, [Disponible en ligne](http://artichautmag.com/youngnesse-limmaturite-precipices-desirs-possibles/).
 * Robitaille-Brassard, Jérémi, « Surréalisme de l’œil chez Georges Bataille », _Postures_, Dossier « Écrire avec », no 23, 2016, [Disponible en ligne](http://revuepostures.com/fr/robitaille-23).
