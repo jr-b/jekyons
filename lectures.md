@@ -12,12 +12,15 @@ permalink: /lectures.html
 	* Jeanne Burgart Goutal, «Déconstruire le "carno-phallogocentrisme" : l’écoféminisme comme critique de la rationalité occidentale», _PhænEx_, vol. 11, no. 1, 2016, [en ligne](https://phaenex.uwindsor.ca/ojs/leddy/index.php/phaenex/issue/view/452/showToc).
 	* Maude Veuilleux, _Franckie et Alex_, [en ligne](http://maudeveilleux.com).
 	* Sarah-Louise Pelletier, «Si Réjean Ducharme était une femme», _Françoise Stéréo_, [en ligne](http://francoisestereo.com/rejean-ducharme-etait-femme/).
-	*
 
+
+	<br>
 
 
 - Été 2018
 	* Witold Gombrowicz, _Journal_ (tome 1 et 2)
+
+	<br>
 
 
 - Hiver 2018

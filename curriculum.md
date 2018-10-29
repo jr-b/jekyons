@@ -17,7 +17,7 @@ permalink: /curriculum.html
 * **Gestionnaire de communauté** et **agent d'assistance technique**, ICI Radio-Canada/CBC (2014-) <span class="dark-red">(emploi actuel)</span>
 &nbsp;
 
-* **Réviseur linguistique** aux éditions de La Tournure pour le recueil _Les garçons au vent_ de Roxane Nadeau, 2017.
+* **Réviseur linguistique** aux éditions de La Tournure pour le recueil [_Les garçons au vent_](https://lepressier.com/collections/meilleurs-vendeurs/products/les-garcons-au-vent-roxane-nadeau) de Roxane Nadeau, 2017.
 
 *  **Membre du comité de rédaction**, revue *Postures* (2015-)
     *  Numéro 22, [«Discours et poétiques de l’amour»](http://revuepostures.com/fr/numeros/discours-poetiques-amour);
