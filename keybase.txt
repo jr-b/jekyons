@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jrobi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jr-b.net
+  * I am jrobi (https://keybase.io/jrobi) on keybase.
+  * I have a public key ASDeWOwHggV8NbNFb-eI7UtY7lFgJmIZTA_WqzsesitxPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de58ec0782057c35b3456fe788ed4b58ee51602662194c0fd6ab3b1eb22b713c0a",
+      "host": "keybase.io",
+      "kid": "0120de58ec0782057c35b3456fe788ed4b58ee51602662194c0fd6ab3b1eb22b713c0a",
+      "uid": "5d0b89dd760ad3cdadfdcbf062d35b19",
+      "username": "jrobi"
+    },
+    "merkle_root": {
+      "ctime": 1542752289,
+      "hash": "5950a3603cb44476eec135a63345a26f4acd00a805211d14737688a88b61e01ee7211b6967e740a465f1d2aa98374c29364abd4f249f0d85a746d2365fb3a22b",
+      "hash_meta": "fcd383fd0f963c3fbb365526bdc97c3f203b48cf33f5ab8b120f3f1a7d00854c",
+      "seqno": 3985243
+    },
+    "service": {
+      "entropy": "2wrjJ4glDELCKEZxR676OjFI",
+      "hostname": "jr-b.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1542752339,
+  "expire_in": 504576000,
+  "prev": "7847f892499cf445d21732a1bb0573d463952692b613f62475df93711abee60b",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3ljsB4IFfDWzRW/niO1LWO5RYCZiGUwP1qs7HrIrcTwKp3BheWxvYWTESpcCBMQgeEf4kkmc9EXSFzKhuwVz1GOVJpK2E/Ykdd+TcRq+5gvEIIN1iub80lZJ9Zu9iik2kc0vana0SumMQxct2wkGz935AgHCo3NpZ8RAtZqokMlpuZnRBxgOtwXDXHRK19g7NE9FVpuxxPCTmO8urVeHi3rwJy6+kAqZaDROMsVMn1bmYENBn4oZ3WPsB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDEQ+a31/iH8WFZ5NTd8lDjsy9JQlb3DKq8z9fOBJfYao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jrobi
+
+==================================================================
