@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Georges Bataille au sujet de l'amitié"
+title:  "Georges Bataille au sujet de l'amiti&eacute;"
 date: 2015-07-15
 categories: Fragments Recherche
 ---

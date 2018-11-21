@@ -2,9 +2,23 @@
 # Overwrite Tachyons here. Don't go overboard!
 ---
 
-@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+ul > li {
+  margin: .2em;
+}
+
+
 
 @import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
+
+@import url('https://fonts.googleapis.com/css?family=Sahitya');
+
+.sahitya {
+  font-family: 'Sahitya', serif;
+}
+
+.barlow {
+  font-family: 'Barlow', sans-serif;
+}
 
 .lato {
   font-family: 'Lato', sans-serif;
@@ -48,7 +62,7 @@ blockquote {
 
 
 article a {
-  color: #ff80cc !important;
+  color: #E7040F !important;
 }
 
 @media screen and (max-width: 479px) {
