@@ -63,12 +63,10 @@ article a {
   color: #E7040F !important;
 }
 
-@media screen and (max-width: 479px) {
+@media only screen and (max-width: 679px) {
     .jrb-web-small{
-      border: 0;
-      text-decoration: underline;
-      -moz-text-decoration-color: black; /* Code for Firefox */
-      text-decoration-color: black;
+      width: 100%;
+      font-size: 1em;
     }
     .jrb-margin-20{
       margin-left: 20px;
