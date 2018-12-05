@@ -6,12 +6,15 @@ ul > li {
   margin: .2em;
 }
 
-
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 @import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
 
 @import url('https://fonts.googleapis.com/css?family=Sahitya');
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
 
 .sahitya {
   font-family: 'Sahitya', serif;
