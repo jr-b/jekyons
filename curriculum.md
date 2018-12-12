@@ -19,7 +19,7 @@ permalink: /curriculum.html
 
 * **Réviseur linguistique** aux éditions de La Tournure pour le recueil [_Les garçons au vent_](https://lepressier.com/collections/meilleurs-vendeurs/products/les-garcons-au-vent-roxane-nadeau) de Roxane Nadeau, 2017.
 
-*  **Membre du comité de rédaction**, revue *Postures* (2015-)
+*  **Membre du comité de rédaction**, revue *Postures* (2015-2018)
     *  Numéro 22, [«Discours et poétiques de l’amour»](http://revuepostures.com/fr/numeros/discours-poetiques-amour);
     *  Numéro 23, [«Écrire avec»](http://revuepostures.com/fr/ecrire-avec);
     *  Numéro 24, [«Actes du colloque de l'AECSEL»](http://revuepostures.com/fr/articles/espaces-critiques);
