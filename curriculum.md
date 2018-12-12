@@ -10,7 +10,7 @@ permalink: /curriculum.html
 
 * **Programme court** de premier cycle en linguistique appliquée à l'étude de la grammaire, Université du Québec à Montréal, 2013-2016.
 
-* **Baccalauréat en études littéraires**, pofil _Perspectives critiques_, Université du Québec à Montréal, 2013-2016.
+* **Baccalauréat en études littéraires**, profil _Perspectives critiques_, Université du Québec à Montréal, 2013-2016.
 
 ## Postes occupés
 
@@ -56,7 +56,7 @@ permalink: /curriculum.html
 * Robitaille-Brassard, Jérémi, « Métaphysique de l'impossible chez Georges Bataille », _L’Artichaut_, 2018. [Disponible en ligne](http://artichautmag.com/metaphysique-de-limpossible-chez-georges-bataille/).
 * Robitaille-Brassard, Jérémi, « La Youngnesse, l’immaturité : précipices et désirs des possibles », _L’Artichaut_, 2016, [Disponible en ligne](http://artichautmag.com/youngnesse-limmaturite-precipices-desirs-possibles/).
 * Robitaille-Brassard, Jérémi, « Surréalisme de l’œil chez Georges Bataille », _Postures_, Dossier « Écrire avec », no 23, 2016, [Disponible en ligne](http://revuepostures.com/fr/robitaille-23).
-* Robitaille-Brassard, Jérémi, « Crudité de maux féminins vivaces. Chasse aux corneilles de Lau- rence Lola Veilleux », _L’Artichaut_, 2015, [Disponible en ligne](http://artichautmag.com/crudite-de-maux-feminins-vivaces-chasse-aux-corneilles-de-laurence-lola-veilleux/).
+* Robitaille-Brassard, Jérémi, « Crudité de maux féminins vivaces. Chasse aux corneilles de Laurence Lola Veilleux », _L’Artichaut_, 2015, [Disponible en ligne](http://artichautmag.com/crudite-de-maux-feminins-vivaces-chasse-aux-corneilles-de-laurence-lola-veilleux/).
 * Robitaille-Brassard, Jérémi, « La famille américaine aux Oscars. Boyhood de Robert Linklater et Gone Girl de David Fincher », _L’Artichaut_, 2015, [Disponible en ligne](http://artichautmag.com/la-famille-americaine-aux-oscars-boyhood-et-gone-girl/).
 * Robitaille-Brassard, Jérémi, « La crème de barbecue », _Pour l’instant. 18e recueil intercollégial de poésie_, 2010, p. 114.
 * Robitaille-Brassard, Jérémi, « dès demain », _Pour l’instant. 16e recueil intercollégial de poésie_, 2008, p. 1:48.
