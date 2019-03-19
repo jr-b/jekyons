@@ -6,11 +6,13 @@ ul > li {
   margin: .2em;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';
 
 @import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
 
-@import url('https://fonts.googleapis.com/css?family=Sahitya');
+.ptsans {
+  font-family: 'PT Sans', sans-serif;
+}
 
 .open-sans {
   font-family: 'Open Sans', sans-serif;

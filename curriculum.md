@@ -6,18 +6,18 @@ permalink: /curriculum.html
 ---
 ## Scolarité
 
-* **Maîtrise en études littéraires**, Université du Québec à Montréal, 2017-2019.
+* **Maîtrise en études littéraires**, Université du Québec à Montréal.
 
-* **Programme court** de premier cycle en linguistique appliquée à l'étude de la grammaire, Université du Québec à Montréal, 2013-2016.
+* **Programme court** de premier cycle en linguistique appliquée à l'étude de la grammaire, Université du Québec à Montréal.
 
-* **Baccalauréat en études littéraires**, profil _Perspectives critiques_, Université du Québec à Montréal, 2013-2016.
+* **Baccalauréat en études littéraires**, profil _Perspectives critiques_, Université du Québec à Montréal.
 
 ## Postes occupés
 
-* **Gestionnaire de communauté** et **agent d'assistance technique**, ICI Radio-Canada/CBC (2014-) <span class="dark-red">(emploi actuel)</span>
+* **Agent d'assistance technique**, ICI Radio-Canada/CBC <span class="dark-red">(emploi actuel)</span>
 &nbsp;
 
-* **Réviseur linguistique** aux éditions de La Tournure pour le recueil [_Les garçons au vent_](https://lepressier.com/collections/meilleurs-vendeurs/products/les-garcons-au-vent-roxane-nadeau) de Roxane Nadeau, 2017.
+* **Réviseur linguistique**, éditions de La Tournure pour le recueil [_Les garçons au vent_](https://lepressier.com/collections/meilleurs-vendeurs/products/les-garcons-au-vent-roxane-nadeau) de Roxane Nadeau, 2017.
 
 *  **Membre du comité de rédaction**, revue *Postures* (2015-2018)
     *  Numéro 22, [«Discours et poétiques de l’amour»](http://revuepostures.com/fr/numeros/discours-poetiques-amour);
