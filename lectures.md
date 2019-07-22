@@ -4,6 +4,13 @@ title:  "Lectures"
 date:   2017-03-03
 permalink: /lectures.html
 ---
+- Hiver 2019
+	* Virginie Despentes, _King Kong théorie_, Livre de Poche, 2007.
+	* 
+
+
+		<br>
+
 - Automne 2018
 	* Serge Margel, _Logique de la nature. Le fantôme, la technique et la mort_, Paris, Galilée, 2000.
 	* Gilbert Durand, _Les strutures anthropologiques de l'imaginaire_, Paris, Dunod, 1984.
