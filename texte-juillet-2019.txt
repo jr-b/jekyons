@@ -1,0 +1,18 @@
+
+Bonjour ! Ici Jérémi 👋
+
+Ce site fait office de curriculum vitæ. J'y tiens aussi un blogue photographique.
+
+Depuis cinq ans, je travaille à CBC/Radio-Canada comme agent d'assistance technique. Je discute de mon expérience sur ce poste dans un court texte, juste ici 👈
+
+Je suis aussi candidat à la maîtrise en études littéraires à l'UQAM. Mon projet de recherche porte sur le rapport à la nature dans les œuvres de Witold Gombrowicz.
+
+[à revoir] J'ai une passion pour la coordination de projet et d'équipe, en édition, en rédaction et en révision de textes. Je présente mes expériences à la page suivante.
+
+Je suis activement à la recherche d'un emploi. Si mon profil vous intéresse, contactez-moi ! ✌️
+jrb@jr-b.net
+
+Jérémi Robitaille-Brassard — Juillet 2019
+
+Ce site est hébergé chez Github Pages. Il est construit avec Jekyll et Tachyons.
+

@@ -1,31 +1,19 @@
 ---
 # Overwrite Tachyons here. Don't go overboard!
 ---
+.b2 {background-color:rgb(85,0,235);}
+.b1 {background-color:rgb(35,58,184);}
+.b3 {background-color:rgb(77,136,136);}
+.b4 {background-color: #1E0D8C;}
 
 ul > li {
   margin: .2em;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Chivo:300,400,400i,900&display=swap');
 
-@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';
+.chivo {font-family: 'Chivo', sans-serif;}
 
-@import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
-
-.ptsans {
-  font-family: 'PT Sans', sans-serif;
-}
-
-.open-sans {
-  font-family: 'Open Sans', sans-serif;
-}
-
-.sahitya {
-  font-family: 'Sahitya', serif;
-}
-
-.barlow {
-  font-family: 'Barlow', sans-serif;
-}
 
 
 .roboto {
@@ -33,23 +21,7 @@ ul > li {
   letter-spacing: .05em;
 }
 
-.cf {
-  clear: both;
-}
 
-.cf-4th {
-  &:nth-child(4n) {
-    margin-right: 0;
-    clear: both;
-  }
-}
-
-.p-fix {
-  &:nth-child(3n) {
-    padding-right: 0;
-    margin-right: 0;
-  }
-}
 
 blockquote {
   background: #F4F4F4;
@@ -65,9 +37,6 @@ blockquote {
 }
 
 
-article a {
-  color: #E7040F !important;
-}
 
 @media only screen and (max-width: 679px) {
     .jrb-web-small{

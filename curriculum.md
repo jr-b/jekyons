@@ -4,7 +4,7 @@ title:  "Curriculum Vitæ"
 date:   2017-03-03
 permalink: /curriculum.html
 ---
-## Scolarité
+<span class="f4 blue">Scolarité</span>
 
 * **Maîtrise en études littéraires**, Université du Québec à Montréal.
 
