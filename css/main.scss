@@ -1,6 +1,111 @@
 ---
 # Overwrite Tachyons here. Don't go overboard!
 ---
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 1em;
+    margin: 6em 1.5em;
+  }
+}
+section {
+  margin-bottom: 2em;
+  /* border-bottom: 1px solid black; */
+}
+article {
+  max-width: 35em;
+  margin-right: auto;
+  margin-left: auto;
+}
+article img {
+  max-width: 30em;
+}
+iframe {
+  width: 100%;
+  height: 100vh;
+}
+@media screen and (max-width: 30em) {
+  article {
+    max-width: 100%;
+  }
+  article img {
+    max-width: 100%;
+  }
+  iframe {
+    width: 100vw;
+  }
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:not(.nbb) {
+  border-bottom: 1px solid #000;
+  padding-bottom: 0.1rem;
+}
+a:hover {
+text-decoration: none;
+color: pink;
+}
+
+sup {
+  font-size: .5em;
+}
+.serif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.vimeo {
+  max-width: 30em;
+}
+
+pre, code {
+        font-size: 1rem;
+        line-height: 1.5;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        background-color: WhiteSmoke;
+    }
+
+
+blockquote {
+  line-height: 1.7;
+  font-size: 1.4rem;
+  font-style: italic;
+  background-color: #fff0f0;
+  border-radius: 30px;
+  padding: .62em;
+  }
+
+.rcc{
+  display: inline-block;
+padding-left: 1.62rem;
+padding-right: 1.62rem;
+padding-top: .61rem;
+padding-bottom: .61rem;
+text-align: center;
+border-style: solid;
+border-width: .09rem;
+border-radius: 1000000px;
+border-width: thin;
+}
+
+.stick {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top:0;
+  margin-left: -10px;
+
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  line-height: 1.7;
+  font-size: 1.2rem;
+  text-rendering: optimizeLegibility;
+  margin: 3em;
+}
+
+
 .b2 {background-color:rgb(85,0,235);}
 .b1 {background-color:rgb(35,58,184);}
 .b3 {background-color:rgb(77,136,136);}
