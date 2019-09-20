@@ -2,6 +2,26 @@
 # Overwrite Tachyons here. Don't go overboard!
 ---
 
+@font-face {
+  font-family: 'UniversLTPro-55Roman';
+  font-display: swap;
+  src:  url('/font/37A69B_0_0.eot');
+  src:  url('/font/37A69B_0_0.eot?#iefix') format('embedded-opentype'),
+        url('/font/37A69B_0_0.woff2') format('woff2'),
+        url('/font/37A69B_0_0.ttf') format('truetype');
+            }
+
+@font-face {
+  font-family: 'UniversLT-Oblique';
+  font-display: swap;
+  src: url('/font/37A69B_1_0.eot');
+  src:  url('/font/37A69B_1_0.eot?#iefix') format('embedded-opentype'),
+        url('/font/37A69B_1_0.woff2') format('woff2'),
+        url('/font/37A69B_1_0.ttf') format('truetype');
+            }
+
+
+
 @media screen and (max-width: 800px) {
   body {
     font-size: 1em;
@@ -20,6 +40,14 @@ article {
 article img {
   max-width: 30em;
 }
+
+::selection {
+  background: rgb(242, 224, 50); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: rgb(242, 224, 50); /* Gecko Browsers */
+}
+
 iframe {
   width: 100%;
   height: 100vh;
@@ -98,9 +126,10 @@ border-width: thin;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: 'UniversLTPro-55Roman', sans-serif !important;
   line-height: 1.7;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
   text-rendering: optimizeLegibility;
   margin: 3em;
 }
@@ -114,18 +143,6 @@ body {
 ul > li {
   margin: .2em;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Chivo:300,400,400i,900&display=swap');
-
-.chivo {font-family: 'Chivo', sans-serif;}
-
-
-
-.roboto {
-  font-family: "Roboto";
-  letter-spacing: .05em;
-}
-
 
 
 blockquote {
