@@ -1,0 +1,8 @@
+/category/work/feed/
+/hello-world/feed/
+/sample-page/feed/
+/wp-content/themes/lay/frontend/assets/js/vendor.min.js
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-includes/js/jquery/jquery.js
+/wp-json/
+/wp-json/oembed/1.0/embed
