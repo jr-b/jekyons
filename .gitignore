@@ -4,4 +4,4 @@ _site
 node_modules
 /curriculum.md
 /images.html
-_posts
+/_posts
