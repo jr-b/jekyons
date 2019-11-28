@@ -2,5 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
-curriculum.md
-images.html
+/curriculum.md
+/images.html
+_posts
